@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Logging http request and response with Spring 4
+excerpt_separator: ""
+tags: http, request, response, spring, spring 4, filter
 ---
 
 Often we are faced with capturing http requests and responses for logging or other purposes. 
