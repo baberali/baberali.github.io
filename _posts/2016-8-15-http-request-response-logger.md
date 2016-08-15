@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logging http request and response with Spring 4
-excerpt_separator: ""
+excerpt_separator: <!--end-->
 tags: http, request, response, spring, spring 4, filter
 ---
 
@@ -67,3 +67,4 @@ public static String getResponseData(final HttpServletResponse response) throws 
     return payload;
 }
 {% endhighlight %}
+<!--end-->
