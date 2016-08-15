@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Logging http request and response with Spring 4
+---
 
 Often we are faced with capturing http requests and responses for logging or other purposes. 
 The main issue with reading request is that as soon as the input stream is consumed its gone whoof... and cannot be read again.
